@@ -123,7 +123,7 @@ Backup Faucet: https://rinkebyfaucet.com/
 <li><a href="#importing-from-github--npm">Importing from GitHub &amp; NPM</a></li>
 <li><a href="#floating-point-math-in-solidtiy">Floating Point Math in Solidity</a></li>
 <li><a href="#basic-solidity-arrays--structs-ii">Basic Solidity: Arrays &amp; Structs II</a></li>
-<li><a href="#review-of-interfacs-importing-from-github--math-in-solidity">Review of Interfacs, Importing from GitHub, &amp; Math in Solidity</a></li>
+<li><a href="#review-of-interfacs-importing-from-github--math-in-solidity">Review of Interfaces, Importing from GitHub, &amp; Math in Solidity</a></li>
 <li><a href="#libraries">Libraries</a></li>
 <li><a href="#safemath-overflow-checking-and-the-unchecked-keywork">SafeMath, Overflow Checking, and the &quot;unchecked&quot; keywork</a></li>
 <li><a href="#basic-solidity-for-loop">Basic Solidity: For Loop</a></li>
